@@ -22,6 +22,5 @@ HelloWorldApp.sayHello();
 
 ## Output
 
-![apex code](image1.png)
-
-![output](image2.png)
+![apex code](image1.jpeg)
+![output](image2.jpeg)
